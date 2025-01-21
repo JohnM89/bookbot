@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first project!
+Python Book bot for simple static character analysis
