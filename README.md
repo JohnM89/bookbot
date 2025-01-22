@@ -8,3 +8,7 @@
 
 ~ provide path to text as argument (python3 main.py path/to/text)
 ~ outputs .png to book subdirectory
+
+example (used on main.py)
+
+![example image](example/main.py.png)
